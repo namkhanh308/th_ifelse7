@@ -1,0 +1,13 @@
+.wrapper{
+    width: 600px;
+    height: 600px;
+}
+
+#khong{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+button{
+    padding: 5px 20px;
+}
